@@ -16,12 +16,12 @@
 | 28/03/2025 | Critérios para seleção de casos de teste caixa-preta: tabela de decisão e todos-os-pares (pairwise). |
 | 04/04/2025 | Revisão para G1 |
 | 11/04/2025 | **Aplicação da G1** |
-| 18/04/2025 | Vista da G1 |
-| 25/04/2025 | Critérios para seleção de casos de teste caixa-branca: cobertura de comandos, cobertura de decisão e complexidade ciclomática. |
+| 18/04/2025 | **Feriado de Sexta-Feira Santa** |
+| 25/04/2025 | Vista da G1 |
 | 02/05/2025 | **Recesso do Dia do Trabalho** |
-| 09/05/2025 | Testes de unidade: conceitos e prática com ferramentas open source. |
-| 16/05/2025 | Testes funcionais: conceitos e prática com ferramentas open source. |
-| 23/05/2025 | Teste de usabilidade: conceitos e prática com ferramentas open source. |
+| 09/05/2025 | Critérios para seleção de casos de teste caixa-branca: cobertura de comandos, cobertura de decisão e complexidade ciclomática. |
+| 16/05/2025 | Testes de unidade: conceitos e prática com ferramentas open source. |
+| 23/05/2025 | Testes funcionais: conceitos e prática com ferramentas open source. |
 | 30/05/2025 | Teste de acessibilidade: conceitos e prática com ferramentas open source. |
 | 06/06/2025 | Teste de desempenho: conceitos e prática com ferramentas open source. |
 | 13/06/2025 | Teste de segurança (pentest): conceitos e prática com ferramentas open source. |
